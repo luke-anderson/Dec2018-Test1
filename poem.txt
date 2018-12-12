@@ -6,4 +6,5 @@ Orange
 Greenish-yellowish
 Blue
 Red
+BLACK
 These are the colors of the rainbow in my poem.
